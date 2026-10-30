@@ -5,3 +5,6 @@ def test_add():
 
 def test_multiply():
     assert multiply(5, 4) == 20
+
+def test_divide():
+    assert divide(10, 2) == 5
