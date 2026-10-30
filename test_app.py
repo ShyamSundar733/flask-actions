@@ -1,4 +1,4 @@
-from app import add, multiply
+from app import add, multiply, divide
 
 def test_add():
     assert add(10,20) == 30
